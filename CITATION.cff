@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use SIGALT EcoStat, please cite the software."
+title: "SIGALT EcoStat"
+type: software
+version: 0.1.0
+license: MIT
+repository-code: "https://github.com/lutjanus/sigalt-ecostat"
+abstract: "Open-source platform for reproducible multivariate ecological analysis."
